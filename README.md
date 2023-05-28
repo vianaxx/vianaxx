@@ -2,7 +2,7 @@
 - 👀 I’m interested in Systems Analysis and Development 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to improve my theoretical knowledge and acquire practical experience in a professional environment
-- 📫 How to reach me ...
+- 📫 How to reach me (https://www.linkedin.com/in/carolina-viana-258551269/)
 
 <!---
 vianaxx/vianaxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
